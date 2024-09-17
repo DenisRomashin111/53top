@@ -1,4 +1,4 @@
 # 53top
-SELECT * FROM users WHERE age > 23;
+SELECT * FROM users WHERE age > 24;
 >
 
